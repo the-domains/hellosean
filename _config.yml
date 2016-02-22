@@ -1,0 +1,28 @@
+name: hellosean
+favicon: null
+layout_spectrum: 0.8685910832136869
+typography_spectrum: 0.5662583594676107
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.3953448045067489
+  lightness: 0.20508338953368366
+  saturation: 0.5028090379200876
+  rhythmicContrast: 0.8607688306365162
+purpose: []
